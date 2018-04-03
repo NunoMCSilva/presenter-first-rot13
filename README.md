@@ -23,7 +23,7 @@ or
 
     python3 __main__.py
 
-Yes, it looks weird... Still a beginner, I see :(
+Yes, it looks weird... :(
 
 Running ROT13 tests
 -------------------
