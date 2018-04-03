@@ -11,6 +11,10 @@ While this project only contains a single
 Model-View-Presenter triad it should still
 be useful as a reference.
 
+Yes, there's probably some mistakes in code
+organization, please remember it's a learning
+project...
+
 Running ROT13 GUI
 ---
 

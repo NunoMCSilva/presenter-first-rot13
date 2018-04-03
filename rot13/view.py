@@ -28,6 +28,7 @@ class ApplicationView(ApplicationViewInterface, tk.Frame):
         self._ciphertext = tk.Text(state=tk.DISABLED)
         self._ciphertext.pack(side=tk.RIGHT)
 
+    # TODO: put this one public? to make clear communication between the V and P? see about rest of code
     def _send_plaintext_change_event(self, event) -> None:
         text = self._plaintext.get(1.0, tk.END)
         text = text[:-1] + event.char + text[-1]
