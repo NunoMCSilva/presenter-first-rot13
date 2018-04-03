@@ -1,0 +1,11 @@
+attrs==17.4.0
+coverage==4.5.1
+hypothesis==3.53.0
+hypothesis-pytest==0.19.0
+more-itertools==4.1.0
+pluggy==0.6.0
+py==1.5.3
+Pypubsub==4.0.0
+pytest==3.5.0
+pytest-mock==1.7.1
+six==1.11.0
