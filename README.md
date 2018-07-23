@@ -1,6 +1,8 @@
 Presenter-First ROT13
 ---
 
+Status: Working
+
 A simple Tkinter ROT13 GUI. Write on the left side,
 and the ROT13ed equivalent is shown on the right.
 
